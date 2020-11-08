@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My_first_task</string>
+    <string name="txt_text_bienvenida">Willkommen zu meiner ersten Show</string>
+    <string name="txt_text_img">Startbild</string>
+</resources>
